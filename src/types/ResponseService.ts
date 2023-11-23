@@ -1,4 +1,4 @@
-type ServiceResponseErrorStatus = 'SERVER_ERROR';
+type ServiceResponseErrorStatus = 'SERVER_ERROR' | 'UNAUTORIZED';
 type ServiceResponseSucessStatus = 'CREATED' | 'OK';
 
 export type ServiceResponseError = {
