@@ -71,4 +71,5 @@ Renomeie o arquivo `.env.example` para `.env` e preencha as variáveis de ambien
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=password
-DB_DATABASE=Trybesmith```
+DB_DATABASE=Trybesmith
+```
