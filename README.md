@@ -63,6 +63,18 @@ Siga os passos abaixo para configurar o projeto localmente:
     docker-compose up -d
     ```
 
+5. Entre no container
+```bash
+docker exec -it trybesmith bash
+```
+6. Instale as dependências
+```bash
+npm install
+```
+7. Inicie o servidor
+```bash
+npm run dev
+```
 ## Configuração
 
 Renomeie o arquivo `.env.example` para `.env` e preencha as variáveis de ambiente conforme necessário:
