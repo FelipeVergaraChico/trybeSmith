@@ -91,9 +91,9 @@ A API estará disponível em http://localhost:3000
 
 ## Testes
 Para rodar os testes unitarios
-    ```bash
-    npm test
-    ```
+```bash
+npm test
+```
 Os testes utilizam as bibliotecas Mocha, Chai e Sinon para garantir a cobertura do código.
 
 ## Contribuição
