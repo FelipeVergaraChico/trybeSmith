@@ -85,3 +85,22 @@ DB_USER=root
 DB_PASSWORD=password
 DB_DATABASE=Trybesmith
 ```
+
+## Uso
+A API estará disponível em http://localhost:3000
+
+## Testes
+Para rodar os testes unitarios
+    ```bash
+    npm test
+    ```
+Os testes utilizam as bibliotecas Mocha, Chai e Sinon para garantir a cobertura do código.
+
+## Contribuição
+Se você deseja contribuir com o projeto:
+
+Faça um fork do repositório.
+Crie uma branch com sua feature: git checkout -b minha-feature.
+Commit suas mudanças: git commit -m 'Minha nova feature'.
+Faça o push da branch: git push origin minha-feature.
+Abra um Pull Request.
