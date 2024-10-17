@@ -64,17 +64,17 @@ Siga os passos abaixo para configurar o projeto localmente:
     ```
 
 5. Entre no container
-```bash
-docker exec -it trybesmith bash
-```
+   ```bash
+   docker exec -it trybesmith bash
+   ```
 6. Instale as dependências
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 7. Inicie o servidor
-```bash
-npm run dev
-```
+   ```bash
+   npm run dev
+   ```
 ## Configuração
 
 Renomeie o arquivo `.env.example` para `.env` e preencha as variáveis de ambiente conforme necessário:
