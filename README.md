@@ -100,7 +100,19 @@ Os testes utilizam as bibliotecas Mocha, Chai e Sinon para garantir a cobertura 
 Se você deseja contribuir com o projeto:
 
 Faça um fork do repositório.
-Crie uma branch com sua feature: git checkout -b minha-feature.
-Commit suas mudanças: git commit -m 'Minha nova feature'.
-Faça o push da branch: git push origin minha-feature.
+Crie uma branch com sua feature: 
+
+```bash
+git checkout -b minha-feature.
+```
+Commit suas mudanças: 
+```bash
+git commit -m 'Minha nova feature'.
+```
+
+Faça o push da branch: 
+```bash
+git push origin minha-feature.
+```
+
 Abra um Pull Request.
